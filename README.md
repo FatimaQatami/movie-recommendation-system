@@ -1,6 +1,3 @@
-# movie-recommendation-system
-Hybrid movie recommender using ALS + content-based filtering on MovieLens 32M
-
 # Movie Recommendation System
 
 A hybrid movie recommender system built on the MovieLens 32M dataset (32 million ratings), combining collaborative filtering and content-based filtering to generate personalized top-10 movie recommendations.
